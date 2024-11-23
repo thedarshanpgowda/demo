@@ -1,9 +1,108 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="YrZPXuVV2tO9lmHCF9eM">
-    <mxGraphModel>
+    <mxGraphModel dx="1909" dy="1282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="81A2PPurx1MLHnACxIQH-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="81A2PPurx1MLHnACxIQH-1" target="81A2PPurx1MLHnACxIQH-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="81A2PPurx1MLHnACxIQH-1" value="Patient Onboarding" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="100" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81A2PPurx1MLHnACxIQH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="81A2PPurx1MLHnACxIQH-2" target="81A2PPurx1MLHnACxIQH-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="81A2PPurx1MLHnACxIQH-2" value="Fills out health forms" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="100" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81A2PPurx1MLHnACxIQH-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="81A2PPurx1MLHnACxIQH-3" target="81A2PPurx1MLHnACxIQH-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="130" />
+              <mxPoint x="640" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="81A2PPurx1MLHnACxIQH-3" value="Submits data with video explanation of symptoms" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="90" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="81A2PPurx1MLHnACxIQH-4" value="Data Integration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="263" y="178" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81A2PPurx1MLHnACxIQH-10" value="AI processes data and provides predictive insights with CBR rankings" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="153" y="260" width="360" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="81A2PPurx1MLHnACxIQH-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="81A2PPurx1MLHnACxIQH-14" target="81A2PPurx1MLHnACxIQH-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="81A2PPurx1MLHnACxIQH-14" value="Doctor Reviews Patient Records" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="258" y="380" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="81A2PPurx1MLHnACxIQH-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="81A2PPurx1MLHnACxIQH-10" target="81A2PPurx1MLHnACxIQH-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="81A2PPurx1MLHnACxIQH-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="81A2PPurx1MLHnACxIQH-18" target="81A2PPurx1MLHnACxIQH-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="81A2PPurx1MLHnACxIQH-18" value="Double Check the AI Response" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="380" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="81A2PPurx1MLHnACxIQH-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.472;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="81A2PPurx1MLHnACxIQH-4" target="81A2PPurx1MLHnACxIQH-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="81A2PPurx1MLHnACxIQH-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="81A2PPurx1MLHnACxIQH-23" target="81A2PPurx1MLHnACxIQH-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="81A2PPurx1MLHnACxIQH-23" value="Talk to patient over video chat and prescribe necessary remediation" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="490" width="210" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="81A2PPurx1MLHnACxIQH-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="81A2PPurx1MLHnACxIQH-25" target="81A2PPurx1MLHnACxIQH-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="81A2PPurx1MLHnACxIQH-25" value="Send Prescribed medicine list" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="497.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81A2PPurx1MLHnACxIQH-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="81A2PPurx1MLHnACxIQH-27" target="81A2PPurx1MLHnACxIQH-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="81A2PPurx1MLHnACxIQH-27" value="Get approved by AI or doctor" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="590" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81A2PPurx1MLHnACxIQH-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="81A2PPurx1MLHnACxIQH-29" target="81A2PPurx1MLHnACxIQH-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="81A2PPurx1MLHnACxIQH-29" value="Get Patient Approve" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81A2PPurx1MLHnACxIQH-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="81A2PPurx1MLHnACxIQH-33" target="81A2PPurx1MLHnACxIQH-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="81A2PPurx1MLHnACxIQH-33" value="Patient Approved" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="680" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="81A2PPurx1MLHnACxIQH-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="81A2PPurx1MLHnACxIQH-35" target="81A2PPurx1MLHnACxIQH-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="81A2PPurx1MLHnACxIQH-35" value="Order to Medicine Vendors" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81A2PPurx1MLHnACxIQH-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="81A2PPurx1MLHnACxIQH-33" target="81A2PPurx1MLHnACxIQH-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="81A2PPurx1MLHnACxIQH-39" value="Yes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="368" y="770" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="81A2PPurx1MLHnACxIQH-40" value="Follow up check with the patient" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81A2PPurx1MLHnACxIQH-45" value="Explain patient other ways" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="533.5" y="730" width="93" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="81A2PPurx1MLHnACxIQH-46" value="No" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="441" y="688" width="40" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
